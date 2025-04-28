@@ -1,36 +1,50 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 🚀 Fundraiser dApp
 
-## Getting Started
+A decentralized crowdfunding platform built with **Next.js**, **Ethers.js**, **IPFS**, and **MetaMask** on the **Sepolia** test network.
 
-First, run the development server:
+## ✨ Features
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- **Create Campaigns** with title, description, target amount, deadline, image (IPFS), and story (IPFS).
+- **Connect MetaMask** wallet to interact with the dApp.
+- **Donate** to campaigns via MetaMask transactions.
+- **Upload Images and Stories** securely to **IPFS**.
+- **View Campaigns** dynamically from blockchain.
+- **Filter Campaigns** based on categories.
+- **View Detailed Campaign** information including donation history.
+-**Toggle theme** Allow user to toggle between dark and light theme
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🛠 Tech Stack
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+- **Frontend**: Next.js (App Router) + Tailwind CSS + Styled Components
+- **Blockchain**: Solidity + Hardhat
+- **Ethereum Testnet**: Sepolia (via Alchemy)
+- **Wallet Connection**: MetaMask + Ethers.js
+- **Storage**: IPFS (through Pinata)
+- **Deployment**: Netlify / Vercel
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+🧩 How it Works
+Connect your MetaMask wallet.
 
-To learn more about Next.js, take a look at the following resources:
+Create Campaign by filling the form and uploading image + story (uploaded to IPFS).
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Campaign gets created on blockchain with IPFS links.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+View Campaigns on home page.
 
-## Deploy on Vercel
+Filter campaigns based on category.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Donate to any campaign via MetaMask.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+---
+
+Images and Story files are uploaded to IPFS via Pinata.
+
+IPFS CIDs are stored on the blockchain.
+
+IPFS Gateway used for fetching assets:
+https://gateway.pinata.cloud/ipfs/<CID>
+
