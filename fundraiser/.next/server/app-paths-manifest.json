@@ -1,0 +1,5 @@
+{
+  "/createcampaign/page": "app/createcampaign/page.js",
+  "/page": "app/page.js",
+  "/dashboard/page": "app/dashboard/page.js"
+}
