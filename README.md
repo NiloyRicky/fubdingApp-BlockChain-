@@ -48,3 +48,48 @@ IPFS CIDs are stored on the blockchain.
 IPFS Gateway used for fetching assets:
 https://gateway.pinata.cloud/ipfs/<CID>
 
+
+
+---
+
+
+
+Follow these steps if you want to clone and run my project locally:
+
+
+## 🔧 Getting Started – Clone & Run Locally
+
+Follow these steps to clone and run the project locally:
+
+### 1. **Clone the Repository**
+```bash
+git clone https://github.com/NiloyRicky/fubdingApp-BlockChain-.git
+cd fubdingApp-BlockChain-
+
+### 2. **Install Dependencies**
+npm install
+
+### 3. **Set up Enviroment Variables**
+
+Create a .env.local file in the root of the project and add the required environment variables.
+Refer to the .env.example file for the format.
+Example:
+NEXT_PUBLIC_PINATA_API_KEY=your_pinata_api_key
+NEXT_PUBLIC_PINATA_SECRET_API_KEY=your_pinata_secret
+NEXT_PUBLIC_ALCHEMY_API_KEY=your_alchemy_key
+NEXT_PUBLIC_CONTRACT_ADDRESS=your_contract_address
+
+### 4. ** Run the Development Server**
+npm run dev
+
+
+### 5. ** Requirements**
+MetaMask browser extension
+
+Connected to Sepolia testnet
+
+Have some test ETH (you can use https://sepoliafaucet.com/)
+
+
+
+
