@@ -1,4 +1,4 @@
-# 🚀 Fundraiser dApp
+# 🚀 Fundraiser DApp
 
 A decentralized crowdfunding platform built with **Next.js**, **Ethers.js**, **IPFS**, and **MetaMask** on the **Sepolia** test network.
 
