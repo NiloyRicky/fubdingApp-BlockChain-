@@ -1,6 +1,4 @@
-<img width="1920" height="1080" alt="Screenshot 2025-05-10 171054" src="https://github.com/user-attachments/assets/f7870ff2-91b5-41f3-961a-6202c5ff49e0" />
-<img width="1920" height="1008" alt="Screenshot 2025-05-10 171019" src="https://github.com/user-attachments/assets/ddc56a0a-59d2-4aab-9028-1d2841c9ec83" />
-<img width="1894" height="874" alt="Screenshot 2025-05-10 170915" src="https://github.com/user-attachments/assets/22e297ab-3ef3-4218-b3f3-caa984ff4430" />
+
 # 🚀 Fundraiser DApp
 
 A decentralized crowdfunding platform built with **Next.js**, **Ethers.js**, **IPFS**, and **MetaMask** on the **Sepolia** test network.
@@ -94,10 +92,10 @@ Connected to Sepolia testnet
 Have some test ETH (you can use https://sepoliafaucet.com/)
 
 
+<img width="1894" height="874" alt="Screenshot 2025-05-10 170915" src="https://github.com/user-attachments/assets/22e297ab-3ef3-4218-b3f3-caa984ff4430" />
+<img width="1920" height="1080" alt="Screenshot 2025-05-10 171054" src="https://github.com/user-attachments/assets/f7870ff2-91b5-41f3-961a-6202c5ff49e0" />
+<img width="1920" height="1008" alt="Screenshot 2025-05-10 171019" src="https://github.com/user-attachments/assets/ddc56a0a-59d2-4aab-9028-1d2841c9ec83" />
 
-<img width="1910" height="863" alt="Screenshot 2025-05-10 171138" src="https://github.com/user-attachments/assets/1f6936d6-d954-4b6a-9e88-912af7681594" />
-<img width="1920" height="1008" alt="Screenshot 2025-05-10 171019" src="https://github.com/user-attachments/assets/2ba1f451-090b-45ec-b21b-551099bc89dd" />
-<img width="1894" height="874" alt="Screenshot 2025-05-10 170915" src="https://github.com/user-attachments/assets/92861dd8-4e16-49fc-b30b-70ce92c92f65" />
 
 
 
