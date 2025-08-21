@@ -1,3 +1,6 @@
+<img width="1920" height="1080" alt="Screenshot 2025-05-10 171054" src="https://github.com/user-attachments/assets/f7870ff2-91b5-41f3-961a-6202c5ff49e0" />
+<img width="1920" height="1008" alt="Screenshot 2025-05-10 171019" src="https://github.com/user-attachments/assets/ddc56a0a-59d2-4aab-9028-1d2841c9ec83" />
+<img width="1894" height="874" alt="Screenshot 2025-05-10 170915" src="https://github.com/user-attachments/assets/22e297ab-3ef3-4218-b3f3-caa984ff4430" />
 # 🚀 Fundraiser DApp
 
 A decentralized crowdfunding platform built with **Next.js**, **Ethers.js**, **IPFS**, and **MetaMask** on the **Sepolia** test network.
